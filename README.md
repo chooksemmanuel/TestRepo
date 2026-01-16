@@ -1,1 +1,6 @@
 # TestRepo
+# Project Title
+
+Here is a brief history of AI:
+
+![A brief history of Artificial Intelligence infographic](imagee/image_0.png)
